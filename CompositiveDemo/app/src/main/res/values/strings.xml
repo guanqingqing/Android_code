@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zongheDemo</string>
+
+    <array name="tabs">
+        <item>推荐</item>
+        <item>热点</item>
+        <item>北京</item>
+        <item>视频</item>
+        <item>社会</item>
+        <item>体育</item>
+        <item>军事</item>
+    </array>
+</resources>
